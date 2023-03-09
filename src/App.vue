@@ -2,7 +2,7 @@
     <div :class="themeClass">
       <button @click="toggleTheme">Toggle {{ currentTheme }} mode</button>
       <div class="p-4 bg-gray-100 dark:bg-gray-900">
-        <h1 class="text-3xl font-bold mb-2">Welcome to Vue Tailwind Builder</h1>
+        <h1 class="text-3xl font-bold mb-2">Welcome to GravityVue</h1>
         <p class="text-gray-700 mb-4">By Metagravity</p>
         <div class="p-4 bg-gray-100 dark:bg-gray-800">
           <h2 class="text-2xl font-bold mb-2">Hello, world!</h2>

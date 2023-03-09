@@ -48,7 +48,7 @@ export default {
 You can also import individual functions and use them in your code:
 
 ```javascript
-import { formatCode } from 'vue-tailwind-prettier-toolkit-metagravity';
+import { formatCode } from 'GravityVue';
 
 const formattedCode = formatCode(unformattedCode);
 
@@ -57,6 +57,11 @@ const formattedCode = formatCode(unformattedCode);
  To run your project
  ```
   npm run build
+```
+
+To start a development server
+```
+npm run dev
 ```
 
 
