@@ -1,4 +1,4 @@
-# vue-tailwind-prettier-toolkit-metagravity
+# GravityVue
 
 A tool for building and deploying web applications using Node.js and Vue.js, with Tailwind CSS for styling and Prettier for code formatting.
 
@@ -7,14 +7,14 @@ A tool for building and deploying web applications using Node.js and Vue.js, wit
 You can install this package using npm. First, navigate to your project directory and run the following command:
 
 ```bash
-npm install vue-tailwind-prettier-toolkit-metagravity
+npm GravityVue
 ```
 
 ## usage
 To use this package in your project, you can import the necessary components and functions from the package in your code. For example:
 
 ```javascript
-import { Button, Input } from 'vue-tailwind-prettier-toolkit-metagravity';
+import { Button, Input } from 'GravityVue';
 
 Vue.component('my-button', Button);
 Vue.component('my-input', Input);
@@ -45,16 +45,20 @@ export default {
 </script>
 ```
 
-
-
-
 You can also import individual functions and use them in your code:
 
 ```javascript
 import { formatCode } from 'vue-tailwind-prettier-toolkit-metagravity';
 
 const formattedCode = formatCode(unformattedCode);
+
 ```
+
+ To run your project
+ ```
+  npm run build
+```
+
 
 
 ## Contributing

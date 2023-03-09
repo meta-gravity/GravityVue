@@ -1,5 +1,5 @@
 {
-  "name": "vue-tailwind-prettier-toolkit-metagravity",
+  "name": "GravityVue",
   "version": "1.0.0",
   "description": "A tool for building and deploying web applications using Node.js and Vue.js, with Tailwind CSS for styling and Prettier for code formatting.",
   "main": "index.js",
