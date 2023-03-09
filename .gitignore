@@ -1,0 +1,21 @@
+# Directories
+node_modules/
+dist/
+build/
+.cache/
+.coverage/
+logs/
+temp/
+npm-debug.log*
+
+# Files
+.env
+.DS_Store
+Thumbs.db
+*.log
+*.log.*
+*.pid
+*.seed
+*.pid.lock
+*.code-workspace
+.vscode/
